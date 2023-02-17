@@ -197,6 +197,7 @@ export default App;
 const styles = StyleSheet.create({
   container: {
     paddingHorizontal: 20,
+    backgroundColor:'white',
   },
   button: {
     borderRadius: 5,
@@ -214,6 +215,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 20,
     marginBottom: 10,
+    color: 'black',
   },
   employeeListContainer: {
     marginBottom: 25,
@@ -227,9 +229,12 @@ const styles = StyleSheet.create({
   name: {
     fontWeight: 'bold',
     fontSize: 16,
+    color: 'black',
   },
   listItem: {
     fontSize: 16,
+    fontStyle: 'normal',
+    color: 'black',
   },
   buttonContainer: {
     marginTop: 10,

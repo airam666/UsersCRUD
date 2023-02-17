@@ -147,6 +147,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 20,
     marginBottom: 20,
+    color: 'black',
   },
   textBox: {
     borderWidth: 1,
@@ -155,6 +156,7 @@ const styles = StyleSheet.create({
     marginBottom: 15,
     fontSize: 18,
     padding: 10,
+    color: 'black',
   },
   buttonContainer: {
     marginTop: 10,
